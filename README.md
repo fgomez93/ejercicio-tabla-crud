@@ -18,3 +18,7 @@ Para correr api :
  npm run serve
  
  - Ejecutar en http://localhost:8080 en el navegador para ingresar a la página.
+
+PD:
+
+- Para editar una persona, se presiona el boton editar y en el formulario de inscripcion se debe modificar la informacion para guardar.
